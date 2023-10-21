@@ -25,6 +25,13 @@ public class Main {
         net.Navig(new Walking());
         net.Navig(new Riding_transport());
 
+
+
+//        ArrayStash stash=new ArrayStash(3,2);
+//        int[][]arr={{1,2},{0,0},{5,2}};
+//        System.out.println(stash.getCountCtolb());
+//        System.out.println(stash.getCountCtrok());
+
     }
 
 }
